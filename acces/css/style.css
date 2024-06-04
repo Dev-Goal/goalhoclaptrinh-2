@@ -1,0 +1,13 @@
+.link__desc{
+    text-decoration: none;
+}
+a{
+    color:green
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+a:active{
+    color: blue;
+}
